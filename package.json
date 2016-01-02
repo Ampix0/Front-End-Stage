@@ -1,0 +1,15 @@
+{
+  "name": "front-end-development-stage",
+  "version": "1.0.0",
+  "description": "A starting stage for front end web development. gulp-sass + gulp-uglify + browser-sync + autoprefixer.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ampix0",
+  "license": "ISC"
+}
